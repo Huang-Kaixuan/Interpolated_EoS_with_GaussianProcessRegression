@@ -1,5 +1,5 @@
 # Interpolated EoS with Gaussian Process Regression Method
-This program is used to perform interpolation with Gaussian process regression method to predict the target values at given points. 
+This program "GPREOS.ipynb" is used to perform interpolation with Gaussian process regression method to predict the target values at given points. 
 ## The specific files included in this deposit
 * `Code_Description.md:` A Markdown file documenting the variables and logic of the code of the program "GPREOS.ipynb".
 * `GPREOS.ipynb:` A Jupyter notebook.
