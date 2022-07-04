@@ -1,5 +1,9 @@
-# Interpolated EoS with Gaussian Process Regression Method
-This program "GPREOS.ipynb" is used to perform interpolation with Gaussian process regression method to predict the target values at given points. 
+# Title: The Hadron-Quark Crossover in Neutron Star within Gaussian Process Regression Method
+Authors: Huang K., Hu J., Zhang Y., Shen H. 
+
+This deposit includes the python code for some part of the EoSs of hadron-quark 
+crossover with the GPR method, "GPREOS.ipynb". The specific files included in this deposit are listed
+and described below:
 ## The specific files included in this deposit
 * `Code_Description.md:` A Markdown file documenting the variables and logic of the code of the program "GPREOS.ipynb".
 * `GPREOS.ipynb:` A Jupyter notebook.
